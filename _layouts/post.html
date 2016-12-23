@@ -5,12 +5,12 @@
 	<section class="blogs">
 		<h1>{{page.title}}</h1>
 		<br />
-		<time>{{ page.date | date: "%-d %B %Y" }}</time>
+		<time datetime="{{page.date}}">{{ page.date | date: "%B %d, %Y" }}</time>
 		<br />
 		<div class="tags">
 		<em>Tags:</em>
     <span class="tag">
-      {{page.tags}}
+      {{page.tags | join: ', '}}
     </span>
 		</div>
 		<br />

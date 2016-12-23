@@ -3,7 +3,6 @@ layout: page
 title: 'About'
 permalink: '/about'
 ---
-
 ### Who are you?
 
 In case you missed it (it’s on the right side of the page), my name is Josh Kayani. I’m an aspiring undergrad, currently studying Computer Science at [North Carolina State University](http://ncsu.edu), in Raleigh, NC. Go Pack!

@@ -67,11 +67,13 @@ section.blogs{
 	margin: auto;
 	text-align: left;
 	color: black; background-color: #EEEEEE;
+	font-weight: lighter;
 }
 section.blogs h1{
 	color: #772953;
 }
 section.blogs h1, h2, section.blogs h3, section.blogs h4, time{
+	font-weight: normal;
 	margin-left: 10%;
 	margin-top: 3%;
 }
@@ -121,7 +123,7 @@ p{
 	margin: auto;
 	padding: 10px;
 	line-height: 150%;
-	font-weight: lighter; font-size: 14pt;
+	font-size: 14pt;
 }
 span.strike{
 	text-decoration: line-through;
@@ -133,6 +135,7 @@ div.tags{
 span.tag{
 	margin-left: 2%;
 	padding: 5px;
+	font-weight: normal;
 	font-size: 12pt;
 	color: white; background-color: #772953; box-shadow: 0px 0px 3px purple
 
