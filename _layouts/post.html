@@ -3,22 +3,20 @@
 	<!-- Sidebar -->
   {% include sidebar.html %}
 	<section class="blogs">
-    {% for post in site.posts %}
-			<h1>{{post.title}}</h1>
-			<br />
-			<time>{{post.date}}</time>
-			<br />
-			<div class="tags">
-			<em>Tags:</em>
-      <span class="tag">
-        {{post.tags}}
-      </span>
-			</div>
-			<br />
-			<p>
-				{{post.content}}
-			</p>
-    {% endfor %}
+		<h1>{{page.title}}</h1>
+		<br />
+		<time>{{page.date}}</time>
+		<br />
+		<div class="tags">
+		<em>Tags:</em>
+    <span class="tag">
+      {{page.tags}}
+    </span>
+		</div>
+		<br />
+		<p>
+			{{page.content}}
+		</p>
 	</section>
 </body>
 </html>
