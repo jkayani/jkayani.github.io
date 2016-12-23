@@ -1,0 +1,165 @@
+/*
+Theme Name: Josh Kayani's Theme
+Author: Josh Kayani
+Author URI: http://joshkayani.me
+Description: Disregard females; acquire integrals.
+*/
+html, body{
+	height: 100%;
+	font-family: 'Segoue UI', 'Ubuntu', sans-serif;
+	font-size: 16pt;
+	background-color: #EEEEEE;
+}
+h1{font-size: 26pt;}
+h2{font-size: 22pt;}
+h3{font-size: 18pt;}
+strong{
+	font-weight: bold;
+}
+em{
+	font-style: italic;
+}
+a:link, a:visited{
+	color: #DD4814;
+	text-decoration: none;
+}
+a:hover, a:active{
+	text-decoration: underline;
+}
+div.highlight{
+	width: 100%;
+	margin-left: 10%;
+}
+code{
+	font-family: monospace;
+}
+blockquote{
+	width: 75%;
+	margin: auto;
+	word-wrap: break-word;
+	border-left: 5px solid orange;
+	background-color: #DDDDDD;
+}
+section.right{
+	height: 100%; width: 25%;
+	position: fixed;
+	right: 0; top: 0;
+	text-align: center;
+	color: white; background-color: #DD4814; 
+}
+nav a:link, nav a:visited{
+	color: white;
+	text-decoration: none;
+	font-family: 'Ubuntu';
+	line-height: 150%;
+}
+nav a:hover, nav a:active{
+	text-decoration: underline;
+}
+section.right p{
+	width: 100%;
+	padding: 3px;
+	font-size: 16pt;
+}
+section.blogs{
+	height: 100%; width: 75%;
+	float: left;
+	margin: auto;
+	text-align: left;
+	color: black; background-color: #EEEEEE;
+}
+section.blogs h1{
+	color: #772953;
+}
+section.blogs h1, h2, section.blogs h3, section.blogs h4, time{
+	margin-left: 10%;
+	margin-top: 3%;
+}
+section.blogs ul {
+	list-style-type: disc;
+	list-style-position: inside;
+	width: 75%;
+	font-size: 14pt;
+	margin: auto;
+}
+section.blogs li{
+	margin-top: 10px;
+	line-height: 150%;
+}
+div.wp-caption{ 
+	margin: auto;
+}
+section.blogs img{
+	margin: auto;
+	padding: 10px;
+	display: block;
+}
+span.no-image{
+	height: 150px;
+	width: 50%;
+	margin: auto;
+	margin-top: 10px;
+	padding: 10px;
+	display: block;
+	background-color: #DDDDDD;
+	text-align: center;
+	color: orange;
+	font-size: 24pt;
+}
+figure{
+	width: 75%;
+	margin: auto;
+	padding: 5px;
+	line-height: 150%;
+}
+figcaption{
+	font-size: 14pt;
+}
+p{
+	width: 75%;
+	margin: auto;
+	padding: 10px;
+	line-height: 150%;
+	font-weight: normal; font-size: 14pt;
+}
+span.strike{
+	text-decoration: line-through;
+}
+div.tags{
+	margin-top: 2%;
+	margin-left: 10%;
+}
+span.tag{
+	margin-left: 2%;
+	padding: 5px;
+	font-size: 12pt;
+	color: white; background-color: #772953; box-shadow: 0px 0px 3px purple
+
+}
+span.tag a:link, span.tag a:active, span.tag a:visited{
+	color: white;
+}
+/* Responsive design */
+@media (max-width: 600px ){
+	span.tag{
+		margin: 5px;
+		display: block;
+		width: 50%;
+	}
+	section.right{
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		left: 0;
+		bottom: 100%;
+	}
+	section.blogs{
+		width: 100%;
+		margin: auto;
+		display: block;
+		position: absolute;
+		left: 0;
+		top: 100%;
+	}
+}
+

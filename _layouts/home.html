@@ -1,0 +1,22 @@
+{% include header.html %}
+<body>
+	<!-- Sidebar -->
+  {% include sidebar.html %}
+  <section class="blogs">
+    {% for post in site.posts %}
+			<h2><a href="{{post.url}}">{{post.title}}</a></h2>
+			<br />
+			<time>{{post.date}}</time>
+			<br />
+			<div class="tags">
+			<em>Tags:</em>
+				<span class="tag">{{post.tags}}</span>
+			</div>
+			<br />
+			<p>
+				{{post.excerpt}}
+			</p>
+    {% endfor %}
+	</section>
+</body>
+</html>
