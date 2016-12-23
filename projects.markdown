@@ -14,7 +14,7 @@ This is a website aimed to educate American voters, based solely off the facts. 
 
 ### [Science of Software REU (2016): Why is search so darn hard?](/assets/Poster-Presentation.pdf)
 
-[![poster_screenshot](/assets/images/screenshots/Screenshot_20161016_012931-1024x767.png)](/assets/images/screenshots/Screenshot_20161016_012931-1024x767.png)
+![poster_screenshot](/assets/images/screenshots/poster-screenshot.png)
 
 During Summer 2016, I had the opportunity to participate in the 2016 Science of Software REU (Research Experience for Undergraduates) at NC State University. During the summer, I continued work on a data collecting tool (in the form of a Google Chrome browser extension) and ultimately ran a brief preliminary pilot study with the tool, presenting the methodology at a research symposium.
 
