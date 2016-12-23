@@ -2,6 +2,7 @@
 layout: post
 title: 'Contributing to open source for the first time'
 date: 2015-12-25
+tags: ["Development", "Experiences"]
 ---
 
 Over the summer – my last one before starting university – I was looking for a project to get into. I had a Github account, and I’d worked on a bunch of small personal projects before, but never had I contributed to someone else’s work. It just seemed too hard; how could I contribute anything of value to a project I didn’t create?
@@ -27,5 +28,3 @@ After an hour or two, I had a working product, but one that didn’t fit my need
 Remember how I wanted to have something to put on Github? Well it turns out, Awesome Screenshot was hosted on there, and the developer was happily accepting contributions. So, I downloaded the Github client for Windows, read up on the general rules/guidelines to requesting a pull request, and tried my luck. I’m happy to say that after a revision or two (mainly code style), my first pull request was accepted. I’d done it – I contributed to open source, all from scratching my own itch!
 
  
-
-

@@ -2,6 +2,7 @@
 layout: post
 title: 'Efficient documentation in Eclipse'
 date: 2015-05-24
+tags: ["Development"]
 ---
 
 Many Java developers, budding and veteran, use the Eclipse IDE – heck, I even used it in my AP Computer Science class in high school (even though it was technically taught with the BlueJ IDE). In the course, we were required to have documentation on the top of any Java classes we wrote in the following format:

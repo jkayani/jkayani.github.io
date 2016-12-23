@@ -2,6 +2,7 @@
 layout: post
 title: 'Google Drive as a collaboration tool'
 date: 2015-12-24
+tags: ["Development"]
 ---
 
 <del>Smart</del> Most developers use some sort of version control, either through full-blown corporate systems, or the super amazing tool Git, paired with the equally amazing online repository system, Github. Being a novice developer, I have yet to start out with either of the two technologies; while I plan on doing so soon, I wanted to share my experiences with using [Google Drive](http://drive.google.com) as a collaboration and version control system, especially for code projects.
@@ -17,5 +18,3 @@ Drive can also be used to host your files on a server, so if you have a website 
 You can even beautify the URL through services like [gdriv.es](http://gdriv.es), so you’ll end up with a much easier to remember URL to access your site. There are also ways to link up files hosted on Drive to a custom domain name if you have one, making the service all the more plausible for actual use. Drive is **extremely** handy for initial development, and even for hosting small-scale sites.
 
 There’s much more about Google Drive I’ve yet to discuss, but most of those features are worth discovering for yourself rather than talking about them in a blog post. Try it out, and see if it works for you business/school/whatever.
-
-

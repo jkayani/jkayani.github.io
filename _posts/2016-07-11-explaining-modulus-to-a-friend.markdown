@@ -2,6 +2,7 @@
 layout: post
 title: 'Explaining modulus to a friend'
 date: 2016-07-11
+tags: ["Math"]
 ---
 
 Last semester, a friend and I were taking Discrete Math (counting, sets, logic, etc.), and he asked me a question about how modulus worked with negative numbers. It took me a bit to come up with a good answer, and I think it provides a nice framework for understanding how that operation works as a whole, so here goes.
@@ -21,5 +22,3 @@ This is a **lot** of math to do a basic operation, so here’s a shortcut. When 
 You can also think of this in terms of going “under” and “over”; with `a modulus b`, you’re going “under” <span style="font-family: monospace;">|a|</span> to find `k`, and taking the difference `a - (b * k).` With `-a modulus b`, you’re going “over” `|a|` to find `k`, and again taking the difference `a - (b * k)`.
 
 Hopefully I managed to articulate all of that well!
-
-

@@ -2,6 +2,7 @@
 layout: post
 title: 'Research: An Update'
 date: 2016-06-24
+tags: [Experiences]
 ---
 
 The last time I mentioned research, I was starting an REU during the Spring 2016 semester at NC State. Now, it’s Summer 2016, and I’m still here – I was given the opportunity to continue working on my project as part of the [Science of Software REU](https://github.com/REU-SOS/SOS).
@@ -11,5 +12,3 @@ The work has been challenging, but quite rewarding. Admittedly, I joined the pro
 Being able to work with intelligent faculty and PhD students is quite invaluable; they’re not only intelligent and wise, but they make for great friends too.
 
 By the end of the summer, I plan to have my Chrome extension finalized with the necessary IRB paperwork sent off – this way, we can begin a pilot study with actual developers using the extension, and come closer to collecting data we can write a paper on!
-
-

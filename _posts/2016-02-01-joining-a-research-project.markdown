@@ -2,6 +2,7 @@
 layout: post
 title: 'Joining a research project'
 date: 2016-02-01
+tags: ["Development", "Experiences"]
 ---
 
 This past month, I was graciously given the opportunity to work on an undergraduate research project in NC State’s CSC (Computer Science) department! The project is part of an [REU (Research Experience for Undergraduates)](https://www.nsf.gov/crssprgm/reu/), which is an initiative sponsored by the National Science Foundation to get undergrads into research. It’s pretty surprising (at least to me), that I was able to start research as a freshman, but it’s a lot more accessible than I’d previously thought!
@@ -23,5 +24,3 @@ So what am I doing? Currently, I’m developing a Chrome browser extension that 
  
 
 I’m really enjoying the work I’m doing so far, and can’t wait to see it an action, used to advance the field as a whole; it’s a great time to be in college, and a great time to contribute to research!
-
-
