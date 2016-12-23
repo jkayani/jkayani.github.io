@@ -45,7 +45,7 @@ section.right{
 	position: fixed;
 	right: 0; top: 0;
 	text-align: center;
-	color: white; background-color: #DD4814; 
+	color: white; background-color: #DD4814;
 }
 nav a:link, nav a:visited{
 	color: white;
@@ -86,10 +86,11 @@ section.blogs li{
 	margin-top: 10px;
 	line-height: 150%;
 }
-div.wp-caption{ 
+div.wp-caption{
 	margin: auto;
 }
 section.blogs img{
+	width: 75%;
 	margin: auto;
 	padding: 10px;
 	display: block;
@@ -162,4 +163,3 @@ span.tag a:link, span.tag a:active, span.tag a:visited{
 		top: 100%;
 	}
 }
-

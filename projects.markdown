@@ -8,34 +8,30 @@ Throughout my short-lived programming career, I’ve been lucky to be part of se
 
 ### [Candidata: The USAPI (2016)](http://candidata.herokuapp.com/)
 
-![candidata-the-usapi](http://joshkayani.me/wp-content/uploads/2015/12/Candidata-the-USAPI-300x271.png)
+![candidata_the_USAPI](/assets/images/screenshots/Candidata-the-USAPI.png)
 
 This is a website aimed to educate American voters, based solely off the facts. Created during Hack NC 2016, the site allows a user to choose an issue that’s important to them, and for each candidate, analyze both the truthfulness of statements they’ve made on the issue, and contributions they’ve received from industries relevant to the particular issue. Data is retrieved from [Politifact](http://static.politifact.com/api/doc.html), [Open Secrets](https://www.opensecrets.org/resources/create/api_doc.php), and [Five Thirty Eight](http://fivethirtyeight.com). This project won our team $500 from Infusion, one of Hack NC’s corporate sponsors.
 
-### [Science of Software REU (2016): Why is search so darn hard?](http://joshkayani.me/wp-content/uploads/2015/12/Poster-Presentation.pdf)
+### [Science of Software REU (2016): Why is search so darn hard?](/assets/Poster-Presentation.pdf)
 
-[![poster_screenshot](http://joshkayani.me/wp-content/uploads/2015/12/Screenshot_20161016_012931-300x225.png)](http://joshkayani.me/wp-content/uploads/2015/12/Screenshot_20161016_012931.png)
+[![poster_screenshot](/assets/images/screenshots/Screenshot_20161016_012931-1024x767.png)](/assets/images/screenshots/Screenshot_20161016_012931-1024x767.png)
 
 During Summer 2016, I had the opportunity to participate in the 2016 Science of Software REU (Research Experience for Undergraduates) at NC State University. During the summer, I continued work on a data collecting tool (in the form of a Google Chrome browser extension) and ultimately ran a brief preliminary pilot study with the tool, presenting the methodology at a research symposium.
 
 ### [Resumate: Automating your Resume (2015)](https://github.com/jkayani/Resumate)
 
-![resumate](http://joshkayani.me/wp-content/uploads/2015/12/resumate-1-300x220.png)
-
- 
+![resumate](/assets/images/screenshots/resumate.png)
 
 Resumate is a a resume-building utility to help recent graduates get jobs. It allows for a user to create and maintain a resume in JSON format, apply for jobs in both the public and private sector (for the United States), and ace the interview with useful tips & tricks. It was built with HTML, JavaScript (including jQuery) and CSS, and distributed in a Windows form designed in Visual Studio. Written for the 2015 NCTSA (North Carolina Technology Student Association) competition, it won 2nd place in the state!
 
 ### [Wordnance: Written for Writers (2014)](https://github.com/ScipioWarrior/Wordnance)
 
-![wordnance](http://joshkayani.me/wp-content/uploads/2015/12/wordnance-1-300x284.png)
-
- 
+![wordnance](/assets/images/screenshots/wordnance.png)
 
 Wordnance is an HTML application developed for writers, allowing them to input their essays and literary pieces, and be given a word-frequency list, all in the spirit of improving the diction in the piece. A synonym-finding service was also built-in, provided by an external API.  It features both a web app version, running as an HTML file, and an HTA (HTML Application) version for Windows users, which is designed to run as a stand-alone executable. Written for the 2014 NCTSA (North Carolina Technology Student Association) competition, it won 1st place in the state!
 
 ### [SavoyMusic.net (2013)](http://savoymusic.net)
 
-![Home _ SavoyMusic.net](http://joshkayani.me/wp-content/uploads/2015/12/Home-_-SavoyMusic.net_-300x263.png)
+![Home _ SavoyMusic.net](/assets/images/screenshots/savoymusic.net.png)
 
 Working with a music director at a local church, I was able to redesign and rebuild his personal website into a WordPress powered blog, allowing him to control and modify his site without any knowledge of web development.
