@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: 'Projects'
-date: 2016-12-20
+permalink: /projects/
 ---
 
 Throughout my short-lived programming career, I’ve been lucky to be part of several cool projects. Check out a few snippets of my work (or just go to my [Github](http://github.com/jkayani) directly):
@@ -39,5 +39,3 @@ Wordnance is an HTML application developed for writers, allowing them to input t
 ![Home _ SavoyMusic.net](http://joshkayani.me/wp-content/uploads/2015/12/Home-_-SavoyMusic.net_-300x263.png)
 
 Working with a music director at a local church, I was able to redesign and rebuild his personal website into a WordPress powered blog, allowing him to control and modify his site without any knowledge of web development.
-
-

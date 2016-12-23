@@ -6,11 +6,11 @@
     {% for post in site.posts %}
 			<h2><a href="{{post.url}}">{{post.title}}</a></h2>
 			<br />
-			<time>{{post.date}}</time>
+			<time datetime="{{post.date}}">{{ post.date | date: "%B %d, %Y" }}</time>
 			<br />
 			<div class="tags">
 			<em>Tags:</em>
-				<span class="tag">{{post.tags}}</span>
+				<span class="tag">{{post.tags | join: ', '}}</span>
 			</div>
 			<br />
 			<p>

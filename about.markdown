@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: 'About'
-date: 2016-12-20
+permalink: '/about'
 ---
 
 ### Who are you?
@@ -21,24 +21,19 @@ Absolutely! You can contact me via [email](mailto:josh@joshkayani.me) here, or f
 Most of my experience is in the web stack; but, here’s a list (in decreasing order of familiarity) of everything I’ve ever worked with:
 
 For school:
-
 - Java – including FindBugs, Checkstyle, PMD, and EclEmma plugins
 - C – C99 standard, with GCC compiler and GDB debugger
 - Jenkins (continuous integration)
 
- 
 
 For research:
-
 - Chrome Extensions – written with JavaScript, HTML, CSS
 - Flask – a Python framework for basic server stuff
 - SQLite – a simple database system
 - R – a math and statistics geared programming language, great for data analytics
 
- 
 
 Everything else:
-
 - PHP and mySQL – they run this very blog with WordPress!
 - Google Apps Script
 - Visual Basic for Applications
@@ -54,5 +49,3 @@ I’m currently using a [Dell XPS 13 (Early 2015)](https://wiki.archlinux.org/in
  
 
  
-
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Winning at Hack NC 2016"
-date: 11-05-2016
+date: 2016-11-05
 tags: [Development, Experiences]
 ---
 Just like last year, the University of North Carolina at Chapel Hill and Major League Hacking teamed up to put on Hack NC 2016 - a 24 hour hackathon with the objective of building cool stuff, very fast. And, just like last year, I went - except this time, **we won something.**

@@ -1,11 +1,5 @@
-from datetime import datetime, date, time
+from datetime import datetime
 import json
-
-def clean_string(s):
-    if s is None:
-        return ""
-    else:
-        return s.encode("utf-8").replace("'", "")
 
 json_data = open("wordpress-export.json").read()
 data = json.loads(json_data)
