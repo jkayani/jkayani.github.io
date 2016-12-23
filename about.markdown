@@ -39,7 +39,7 @@ Everything else:
 * Visual Basic .NET
 * TI-BASIC – used to program calculators!
 * Django – another Python framework, also for basic server stuff
-- Linux (specificially, Ubuntu and Red Hat)
+* Linux (specificially, Ubuntu and Red Hat)
 
 ###  What’s your tech setup?
 
