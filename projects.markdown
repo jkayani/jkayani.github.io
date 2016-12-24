@@ -10,7 +10,7 @@ Throughout my short-lived programming career, I’ve been lucky to be part of se
 
 ![candidata_the_USAPI](/assets/images/screenshots/Candidata-the-USAPI.png)
 
-This is a website aimed to educate American voters, based solely off the facts. Created during Hack NC 2016, the site allows a user to choose an issue that’s important to them, and for each candidate, analyze both the truthfulness of statements they’ve made on the issue, and contributions they’ve received from industries relevant to the particular issue. Data is retrieved from [Politifact](http://static.politifact.com/api/doc.html), [Open Secrets](https://www.opensecrets.org/resources/create/api_doc.php), and [Five Thirty Eight](http://fivethirtyeight.com). This project won our team $500 from Infusion, one of Hack NC’s corporate sponsors.
+This is a website aimed to educate American voters, based solely off the facts. [Created during Hack NC 2016]({{site.baseurl}}{% post_url 2016-05-11-winning-at-hacknc-2016 %}), the site allows a user to choose an issue that’s important to them, and for each candidate, analyze both the truthfulness of statements they’ve made on the issue, and contributions they’ve received from industries relevant to the particular issue. Data is retrieved from [Politifact](http://static.politifact.com/api/doc.html), [Open Secrets](https://www.opensecrets.org/resources/create/api_doc.php), and [Five Thirty Eight](http://fivethirtyeight.com). This project won our team $500 from Infusion, one of Hack NC’s corporate sponsors.
 
 ### [Science of Software REU (2016): Why is search so darn hard?](/assets/Poster-Presentation.pdf)
 
