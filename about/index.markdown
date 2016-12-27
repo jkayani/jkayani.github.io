@@ -19,9 +19,53 @@ You might also be interested in my resume, [which you can find here]({{site.base
 
 ### What can you do?
 
-Most of my experience is in the web stack; but, here’s a list
+Most of my experience is in the web stack; but, here are lists
 (in decreasing order of familiarity) of everything I’ve ever worked with:
 
+
+<table>
+  <thead>
+    <tr>
+      <th>School</th>
+      <th>Research</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Java - including FindBugs, Checkstyle, PMD, and EclEmma plugins</li>
+          <li>C - C99 standard, with GCC compiler and GDB debugger</li>
+          <li>Jenkins (continuous integration)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Chrome Extensions - written with JavaScript, HTML, CSS</li>
+          <li>Flask - a Python framework for basic server stuff</li>
+          <li>SQLite - a simple database system</li>
+          <li>R - a math and statistics geared programming language,
+          great for data analytics</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Google Apps Script</li>
+          <li>Visual Basic for Applications</li>
+          <li>Visual Basic .NET</li>
+          <li>Jekyll and Github Pages</li>
+          <li>TI-BASIC - used to program calculators!</li>
+          <li>PHP and mySQL, specifically with WordPress</li>
+          <li>Django - another Python framework, also for basic server stuff</li>
+          <li>Linux (specificially, Ubuntu and Red Hat)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
 For school:
 
 * Java - including FindBugs, Checkstyle, PMD, and EclEmma plugins
@@ -48,6 +92,8 @@ Everything else:
 * PHP and mySQL - they ~~run~~ *used to run* this very blog with WordPress!
 * Django - another Python framework, also for basic server stuff
 * Linux (specificially, Ubuntu and Red Hat)
+
+-->
 
 ###  What’s your tech setup?
 

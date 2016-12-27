@@ -6,7 +6,7 @@ Description: Disregard females; acquire integrals.
 */
 html, body{
 	height: 100%;
-	font-family: 'Segoue UI', 'Ubuntu', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 16pt;
 	background-color: #EEEEEE;
 }
@@ -89,9 +89,6 @@ section.blogs li{
 	margin-top: 5px;
 	line-height: 150%;
 }
-div.wp-caption{
-	margin: auto;
-}
 section.blogs img{
 	width: 75%;
 	margin: auto;
@@ -131,6 +128,17 @@ pre.highlight {
 	overflow-y: auto;
 	box-shadow: 0px 0px 3px black;
 	font-size: 12pt;
+}
+table {
+	margin: auto;
+	width: 75%;
+}
+th {
+	text-align: center;
+	font-weight: normal;
+}
+th, td {
+	border-right: 1px solid black;
 }
 span.strike{
 	text-decoration: line-through;
