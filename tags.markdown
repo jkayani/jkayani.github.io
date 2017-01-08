@@ -1,5 +1,5 @@
 ---
 layout: tags
-title: Tags | Josh Kayani
+title: Tags
 permalink: "/tags/"
 ---
