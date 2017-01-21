@@ -26,4 +26,4 @@ By the time Sunday morning came, we were pretty happy with our work - unlike las
 
 All in all, I learned a lot, both in a technical and political sense - I came away $167 richer than I arrived, and with something interesting to write about. The experience was definitely the most valuable reward, and I hope it lets me pull this off again next year!
 
-Oh right - [here's a link to the final product.](http://candidata.herokuapp.com/results/)
+Oh right - [here's a link to the final product.](http://candidata.herokuapp.com/)
