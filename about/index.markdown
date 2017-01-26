@@ -38,6 +38,7 @@ Most of my experience is in the web stack; but, here are lists
           <li>Java - including FindBugs, Checkstyle, PMD, and EclEmma plugins</li>
           <li>C - C99 standard, with GCC compiler and GDB debugger</li>
           <li>Jenkins (continuous integration)</li>
+          <li>LaTeX</li>
         </ul>
       </td>
       <td>
@@ -98,7 +99,8 @@ Everything else:
 ###  What’s your tech setup?
 
 I’m currently using a [Dell XPS 13 (Early 2015)](https://wiki.archlinux.org/index.php/Dell_XPS_13_(2015)) running [Ubuntu 16.04 LTS](https://www.ubuntu.com/) and the [KDE Plasma 5](https://www.kde.org/) desktop environment. My preferred general-purpose text editor is [Atom](https://atom.io/), and I currently use [Eclipse](https://eclipse.org/)
-for Java development.
+for Java development. I've also started writing $$\LaTeX$$ which I support
+on my website with [MathJax](https://www.mathjax.org/), and write on my computer with [TeXStudio](http://www.texstudio.org/).
 
 This site used to be powered by Jekyll, and [then switched to WordPress]({{site.baseurl}}{% post_url 2015-12-21-migrating-from-jekyll-to-wordpress %}),
 and is [now back to Jekyll again]({{site.baseurl}}{% post_url 2016-12-23-back-to-jekyll %}), but this time with the support of Github Pages!
