@@ -3,6 +3,7 @@ layout: post
 title: 'Explaining modulus to a friend'
 date: 2016-07-11
 tags: ["Math"]
+specials: "latex"
 ---
 
 Last semester, a friend and I were taking Discrete Math (counting, sets, logic, etc.), and he asked me a question about how modulus worked with negative numbers. It took me a bit to come up with a good answer, and I think it provides a nice framework for understanding how that operation works as a whole, so here goes.
