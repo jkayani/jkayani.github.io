@@ -6,7 +6,13 @@ specials: latex
 ---
 ### Who are you?
 
-In case you missed it (it’s on the right side of the page), my name is Josh Kayani. I’m an aspiring undergrad, currently studying Computer Science at [North Carolina State University](http://ncsu.edu), in Raleigh, NC. Go Pack!
+In case you missed it (it’s on the right side of the page), my name is Josh
+Kayani. I’m an aspiring undergrad, currently studying Computer Science at
+[North Carolina State University](http://csc.ncsu.edu), in Raleigh, NC. Go Pack!
+
+I also serve as an officer in [NC State's ACM/AITP chapter](https://acm-ncsu.github.io/) -
+my main job is to manage our website, and otherwise help with club
+administration. 
 
 ### Are you looking for internship/job opportunities?
 
