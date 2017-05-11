@@ -12,11 +12,11 @@ Kayani. I’m an aspiring undergrad, currently studying Computer Science at
 
 I also serve as an officer in [NC State's ACM/AITP chapter](https://acm-ncsu.github.io/) -
 my main job is to manage our website, and otherwise help with club
-administration. 
+administration.
 
 ### Are you looking for internship/job opportunities?
 
-Absolutely! You can contact me via [email](mailto:josh@joshkayani.me) here, or find me online:
+For Summer 2017, I'll be a Software Engineering Intern at [Dude Solutions](https://www.dudesolutions.com) in Cary, NC. I'm still interested in opportunities for the future, and you can contact me via [email](mailto:josh@joshkayani.me) here, or find me online:
 
 [Github](http://github.com/jkayani)
 
@@ -46,6 +46,7 @@ Most of my experience is in the web stack; but, here are lists
           <li>C - C99 standard, with GCC compiler and GDB debugger</li>
           <li>Jenkins (continuous integration)</li>
           <li>LaTeX</li>
+          <li>Microsoft Assembler (Microsoft Macro Assembler)</li>
         </ul>
       </td>
       <td>
