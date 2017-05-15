@@ -2,7 +2,7 @@
 Theme Name: Josh Kayani's Theme
 Author: Josh Kayani
 Author URI: http://joshkayani.me
-Description: Disregard females; acquire integrals.
+Description: Someone's gotta flip those bits from 0 to 1!
 */
 html, body{
 	height: 100%;
@@ -18,6 +18,10 @@ strong{
 }
 em{
 	font-style: italic;
+}
+a.home:link, a.home:visited, a.home:hover, a.home:active{
+	color: white;
+	text-decoration: none;
 }
 a:link, a:visited{
 	color: #DD4814;
@@ -61,6 +65,12 @@ section.right p{
 	width: 100%;
 	padding: 3px;
 	font-size: 16pt;
+}
+img.profile{
+	width: 45%;
+	border-radius: 50px;
+	margin: auto;
+	display: block;
 }
 section.blogs{
 	height: 100%; width: 75%;
@@ -190,8 +200,8 @@ span.tag a:link, span.tag a:active, span.tag a:visited{
 }
 
 /**
-* Used for the table on the About page, causes the rows
-* to stack vertically.
+* Causes the sidebar to sit on top of the main content area
+* for smaller screens that can't accomodate a sidebar
 */
 
 @media (max-width: 600px ){
