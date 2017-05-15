@@ -10,7 +10,7 @@ This past year, I've done quite a bit! By finishing my sophomore year at NC Stat
 - CSC 316: Data Structures and Algorithms
 - CSC 230: C and Software Tools
 - CSC 236: Computer Organization and Assembly Language
-- CSC 246: Concepts and Facilties of Operating Systems
+- CSC 246: Concepts and Facilities of Operating Systems
 - CSC 333: Automata, Grammars, and Computability
 
 I definitely enjoyed all of these, especially CSC 236, 246, and 333 (all taken this past semester); with Assembly Language and Operating Systems, the whole magic behind why/how a computer works is unveiled, and it answered a lot of the questions I had about the details of turning `public static void main (String args []) {}` into machine code. Automata was one of the best, but hardest, classes I've ever taken at NC State - the course focused on the different classes of finite automata and languages, and the theory of computation. It was pretty proof-based, and I got a lot more out of it mathematically than the class I took for my math minor, MA 341: Applied Differential Equations - it's too bad it doesn't count towards it.
