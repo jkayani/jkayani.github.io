@@ -22,7 +22,7 @@ For Summer 2017, I'll be a Software Engineering Intern at [Dude Solutions](https
 
 [LinkedIn](https://www.linkedin.com/in/joshua-kayani-18b30381)
 
-You might also be interested in my resume, [which you can find here]({{site.baseurl}}/assets/other/Resume.pdf).
+You might also be interested in my resume, [which you can find here]({{site.baseurl}}/assets/other/UpdatedResume.pdf).
 
 ### What can you do?
 
