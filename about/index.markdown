@@ -106,7 +106,7 @@ Everything else:
 
 ###  What’s your tech setup?
 
-I’m currently using a [Dell XPS 13 (Early 2015)](https://wiki.archlinux.org/index.php/Dell_XPS_13_(2015)) running [Ubuntu 16.04 LTS](https://www.ubuntu.com/) and the [KDE Plasma 5](https://www.kde.org/) desktop environment. My preferred general-purpose text editor is [Atom](https://atom.io/), and I currently use [Eclipse](https://eclipse.org/)
+I’m currently using a [Dell XPS 13 (Early 2015)](https://wiki.archlinux.org/index.php/Dell_XPS_13_(2015)) running [Arch Linux](http://archlinux.org) and the [i3](https://i3wm.org/) window manager. My preferred general-purpose text editor is [Vim](http://vim.org), and I currently use [Eclipse](https://eclipse.org/)
 for Java development. I've also started writing $$\LaTeX$$ which I support
 on my website with [MathJax](https://www.mathjax.org/), and write on my computer with [TeXStudio](http://www.texstudio.org/).
 
