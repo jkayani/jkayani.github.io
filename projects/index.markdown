@@ -4,7 +4,8 @@ title: 'Projects'
 permalink: /projects/
 ---
 
-Throughout my short-lived programming career, I’ve been lucky to be part of several cool projects. Check out a few snippets of my work (or just go to my [Github](http://github.com/jkayani) directly):
+Throughout my short-lived programming career, I’ve been lucky to be part of several cool projects. Here are a few personal/team projects,
+and check out my [Github](http://github.com/jkayani) for some of my open source contributions. 
 
 ### [Candidata: The USAPI (2016)](http://candidata.herokuapp.com/)
 
