@@ -16,7 +16,7 @@ administration.
 
 ### Are you looking for internship/job opportunities?
 
-For Summer 2017, I'll be a Software Engineering Intern at [Dude Solutions](https://www.dudesolutions.com) in Cary, NC. I'm still interested in opportunities for the future, and you can contact me via [email](mailto:josh@joshkayani.me) here, or find me online:
+For Summer 2018, I'll be a Software Engineering Intern at [IBM](https://www.ibm.com) in Durham, NC. I'm still interested in opportunities for the future, and you can contact me via [email](mailto:josh@joshkayani.me) here, or find me online:
 
 [Github](http://github.com/jkayani)
 
