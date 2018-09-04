@@ -22,8 +22,6 @@ For Summer 2018, I'll be a Software Engineering Intern at [IBM](https://www.ibm.
 
 [LinkedIn](https://www.linkedin.com/in/joshua-kayani-18b30381)
 
-You might also be interested in my resume, [which you can find here]({{site.baseurl}}/assets/other/UpdatedResume.pdf).
-
 ### What can you do?
 
 Most of my experience is in the web stack; but, here are lists
